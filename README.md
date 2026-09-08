@@ -1,26 +1,42 @@
-# 🌷 Portfolio Yunita
+ 🌷 PORTOFOLIO YUNITA
 
-## 👩‍💻 Tentang Saya
+👩‍💻 Tentang Saya
 
-Halo, saya Yunita. Saya adalah siswa kelas XI jurusan Teknik Komputer dan Jaringan (TKJ).
+Halo! Nama saya Yunita. Saya adalah siswi kelas XI TKJ (Teknik Komputer dan Jaringan) di SMK Negeri 1 Ketapang.
 
-Saya sangat suka membuat poster dan ingin mengembangkan kemampuan saya di bidang teknologi dan komputer. Walaupun saya masih belajar, saya ingin terus menambah kemampuan dan pengalaman untuk masa depan.
+Saya tertarik dengan dunia teknologi, desain, pembuatan konten, dan kegiatan organisasi. Saya senang belajar hal-hal baru untuk mengembangkan kemampuan dan pengalaman saya.
 
-## 💻 Skill
+💼 Pengalaman
 
-- Komputer
-- Canva
+💻 Teknik Komputer dan Jaringan
 
-## 🎨 Project
+Mempelajari dasar-dasar Teknik Komputer dan Jaringan (TKJ) serta berbagai hal yang berkaitan dengan teknologi komputer dan jaringan.
 
-### Membuat Poster di Canva
+🤝 Organisasi
 
-Saya membuat poster menggunakan Canva untuk mengembangkan kemampuan desain dan kreativitas.
+Mengikuti kegiatan organisasi sekolah, bekerja sama dengan anggota lain, dan berpartisipasi dalam berbagai kegiatan sekolah.
 
-## 🌟 Cita-Cita
+📱 Konten TikTok
 
-Saya ingin menjadi orang sukses, memiliki banyak pengalaman, dan terus mengembangkan kemampuan saya di masa depan.
+Membuat dan mengembangkan konten TikTok dengan menggunakan kreativitas dan kemampuan dalam membuat desain.
+
+✨ Keahlian
+
+- 🎨 Desain
+- 📱 Membuat Konten TikTok
+- 💻 Dasar Teknik Komputer dan Jaringan
+- 🤝 Kerja Sama
+
+🎯 Tujuan
+
+Terus mengembangkan kemampuan di bidang TKJ, desain, dan pembuatan konten, serta mendapatkan lebih banyak pengalaman melalui kegiatan sekolah dan organisasi.
+
+📩 Kontak
+
+📧 Email: "yta377474@gmail.com" (mailto:yta377474@gmail.com)
+
+🏫 SMK Negeri 1 Ketapang — XI TKJ
 
 ---
 
-**Portfolio Yunita | Kelas XI TKJ**
+🌷 Portofolio Yunita
