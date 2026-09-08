@@ -1,77 +1,177 @@
-body {
+* {
     margin: 0;
-    font-family: Arial, sans-serif;
-    background: #f9f0ff;
-    color: #333;
+    padding: 0;
+    box-sizing: border-box;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: #f7f1ff;
+    color: #333;
+    line-height: 1.7;
+}
+
+/* HEADER */
+
 header {
-    background: #9b6dcc;
-    color: white;
-    text-align: center;
-    padding: 40px 20px;
+    background: linear-gradient(135deg, #c9a7ff, #f0c7ff);
+    padding: 70px 20px;
+}
+
+.profile {
+    max-width: 900px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+
+.foto {
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    background: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 55px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.12);
 }
 
 header h1 {
-    margin: 0;
-    font-size: 32px;
+    font-size: 45px;
+    color: #633b91;
 }
 
+header p {
+    font-size: 18px;
+}
+
+/* MENU */
+
 nav {
-    background: #6f4a8e;
+    background: white;
+    padding: 16px;
     text-align: center;
-    padding: 15px;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.08);
 }
 
 nav a {
-    color: white;
+    color: #633b91;
     text-decoration: none;
-    margin: 8px;
     font-weight: bold;
+    margin: 0 15px;
+}
+
+nav a:hover {
+    color: #a05dcc;
+}
+
+/* SECTION */
+
+main {
+    max-width: 950px;
+    margin: auto;
+    padding: 20px;
 }
 
 section {
     background: white;
-    margin: 20px;
-    padding: 25px;
-    border-radius: 15px;
-    box-shadow: 0 3px 10px #ddd;
+    margin: 30px 0;
+    padding: 35px;
+    border-radius: 22px;
+    box-shadow: 0 8px 25px rgba(0,0,0,0.07);
 }
 
 h2 {
-    color: #8b5fbf;
+    color: #633b91;
+    margin-bottom: 20px;
+    font-size: 27px;
 }
 
+/* CARD */
+
 .card {
-    background: #f5eaff;
-    padding: 15px;
-    margin: 15px 0;
-    border-radius: 12px;
+    background: #faf6ff;
+    margin: 18px 0;
+    padding: 22px;
+    border-radius: 15px;
+    border-left: 5px solid #a875d1;
 }
 
 .card h3 {
-    color: #76509b;
+    color: #70449b;
+    margin-bottom: 8px;
 }
+
+/* KEAHLIAN */
+
+.skills {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 15px;
+}
+
+.skills div {
+    text-align: center;
+    padding: 25px 10px;
+    background: #eee1ff;
+    border-radius: 15px;
+    color: #633b91;
+}
+
+/* LINK EMAIL */
+
+#kontak a {
+    color: #70449b;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#kontak a:hover {
+    text-decoration: underline;
+}
+
+/* FOOTER */
 
 footer {
-    background: #6f4a8e;
+    background: #633b91;
     color: white;
     text-align: center;
-    padding: 20px;
-    margin-top: 30px;
+    padding: 25px;
+    margin-top: 40px;
 }
 
+/* HP */
+
 @media (max-width: 600px) {
+
+    .profile {
+        flex-direction: column;
+        text-align: center;
+    }
+
     header h1 {
-        font-size: 25px;
+        font-size: 35px;
     }
 
     nav a {
-        display: block;
-        margin: 10px;
+        margin: 0 6px;
+        font-size: 13px;
     }
 
     section {
-        margin: 12px;
+        padding: 25px 20px;
+    }
+
+    .skills {
+        grid-template-columns: repeat(2, 1fr);
     }
 }
